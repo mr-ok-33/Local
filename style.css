@@ -7,5 +7,9 @@ body{
 }
 p{
     color: white;
+
     gap :20px;
+
+    background-color: pink;
+
 }
